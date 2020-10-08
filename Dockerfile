@@ -1,4 +1,4 @@
-FROM alpine
+FROM alpine:edge
 
 MAINTAINER Piotr Delert (https://github.com/pdelert)
 
